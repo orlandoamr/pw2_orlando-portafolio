@@ -1,0 +1,36 @@
+/*header div.hero {
+    background-image: url("../imgs/bg_l.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 50vh;
+    text-align: center;
+ 
+  }*/
+
+  .title{
+    color: ghostwhite;
+    font-family: 'Kaushan Script', cursive;
+    font-size:1.5em;
+    text-shadow: 2px 2px black;
+  }
+
+  .font-tittle{
+    font-family: 'Brush Script MT', cursive;
+  }
+  .navbar-brand{
+   font-size: 2.5em;
+  }
+  .shadow{
+    color: ghostwhite;
+    text-shadow: 1px 1px black;
+  }
+  .carousel-item{
+    max-height: 40rem;
+  }
+  .fs-3,.fs-4{
+    text-shadow: 1px 1px black;
+  }
+  @media (min-width: 992px) {
+    
+  }
